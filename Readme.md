@@ -1,6 +1,4 @@
 # Portfólio 
-
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
 Este é um portfólio responsivo desenvolvido utilizando **HTML** e **Bootstrap**. O design é focado em uma **landing page** que se adapta perfeitamente a diferentes dispositivos, como web, mobile e tablet.
 
 ## Stack utilizada
